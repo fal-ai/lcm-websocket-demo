@@ -1,7 +1,7 @@
 import React, { useRef, useEffect, useCallback, useMemo, useState } from 'react';
 import { debounce } from 'lodash';
 
-const DEBOUNCE_TIME = 500; // Adjust as needed
+const DEBOUNCE_TIME = 0.1; // Adjust as needed
 const URL = "wss://110602490-lcm-sd15-i2i.gateway.alpha.fal.ai/ws";
 const CIRCLE_RADIUS = 80; // Radius of the circle
 
