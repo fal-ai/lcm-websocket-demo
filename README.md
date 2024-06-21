@@ -1,3 +1,9 @@
+# Deprecated
+
+⚠️ Please check out instead https://github.com/fal-ai/tldraw-fal. ⚠️
+
+*****
+
 This is a [React](https://react.dev/) app with [fal](https://fal.ai) that demonstrates real-time AI image generation based on drawings in a canvas.
 
 ## Getting Started
